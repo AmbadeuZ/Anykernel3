@@ -577,6 +577,6 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
-ui_print " " "Done!! Please Wipe Cache Before Reboot System!";
+ui_print " " "Suka ya pake , ga suka yaudah ganti aja";
 export PATH="$OLD_PATH";
 unset OLD_PATH OUTFD ZIPFILE;
